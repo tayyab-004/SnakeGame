@@ -2,10 +2,6 @@
 
 Welcome to the Snake Game! This classic arcade game is built with pure JavaScript concepts and enhanced with HTML and CSS for an engaging and nostalgic gaming experience.
 
-## Snake Game is Live Here
-
-https://snakebeast.netlify.app/
-
 
 ## Features
 
